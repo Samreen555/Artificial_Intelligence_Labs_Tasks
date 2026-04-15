@@ -1,0 +1,71 @@
+=====================================================================================
+                              STUDENT ANALYSIS REPORT
+=====================================================================================
+Generated: 2026-04-15 15:33:18
+Passing Marks Threshold: 12
+=====================================================================================
+
+EXECUTIVE SUMMARY
+-------------------------------------------------------------------------------------
+Total Students Analyzed:        15
+Average Marks:                  12.57
+Highest Marks:                  18.00
+Lowest Marks:                   7.50
+Students Below Passing Marks:   7 (46.7%)
+Students with Invalid Emails:   4 (26.7%)
+
+=====================================================================================
+UNDERPERFORMING STUDENTS (Marks < 12)
+=====================================================================================
+Name                      Marks      Email Valid?    Email Address                      
+-------------------------------------------------------------------------------------
+Smith                     9.0        No              smith@invalid                      
+Tayyaba                   11.5       Yes             Tayyaba@college.org                
+Rehan                     8.0        Yes             rehan@school.edu                   
+Cen                       10.5       Yes             chen@academy.com                   
+Kevin                     7.5        No              kevin.                             
+Mike                      9.5        Yes             mike@boxing.com                    
+Oscar                     11.0       Yes             oscar@literature.edu               
+
+=====================================================================================
+STUDENTS WITH INVALID EMAIL ADDRESSES
+=====================================================================================
+Name                      Marks      Email Address                                     
+-------------------------------------------------------------------------------------
+Smith                     9.0        smith@invalid                                     
+Zain                      16.5       zain@domain                                       
+Ali                       13.5       ali@wrong                                         
+Kevin                     7.5        kevin.                                            
+
+=====================================================================================
+COMPLETE STUDENT LIST (Sorted by Marks)
+=====================================================================================
+Rank  Name                      Marks      Performance          Email Status   
+-------------------------------------------------------------------------------------
+1     ahmed                     18.0       Satisfactory         Valid          
+2     Nina                      17.0       Satisfactory         Valid          
+3     Zain                      16.5       Satisfactory         Invalid        
+4     Samreen                   15.5       Satisfactory         Valid          
+5     Lisa                      14.5       Satisfactory         Valid          
+6     Umama                     14.0       Satisfactory         Valid          
+7     Ali                       13.5       Satisfactory         Invalid        
+8     Jack                      12.5       Satisfactory         Valid          
+9     Tayyaba                   11.5       Underperforming      Valid          
+10    Oscar                     11.0       Underperforming      Valid          
+11    Cen                       10.5       Underperforming      Valid          
+12    Mike                      9.5        Underperforming      Valid          
+13    Smith                     9.0        Underperforming      Invalid        
+14    Rehan                     8.0        Underperforming      Valid          
+15    Kevin                     7.5        Underperforming      Invalid        
+
+=====================================================================================
+RECOMMENDATIONS
+=====================================================================================
+1. Provide academic support to 7 underperforming students
+2. Schedule tutoring sessions for struggling students
+3. Contact 4 students to update their email addresses
+4. Verify email format before sending official communications
+
+=====================================================================================
+END OF REPORT
+=====================================================================================

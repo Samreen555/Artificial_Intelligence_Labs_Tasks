@@ -1,0 +1,7 @@
+Hello World!
+This is a sample text file for Lab 08.
+Python file handling is easy to learn.
+We are learning how to read and write files.
+Regular expressions help with pattern matching.
+Pandas makes data analysis simple and efficient.
+End of sample text file.
